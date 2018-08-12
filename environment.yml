@@ -1,0 +1,17 @@
+dependencies:
+ - python=3.6
+ - numpy
+ - scipy
+ - pandas
+ - jupyter
+ - matplotlib
+ - seaborn
+ - psycopg2
+ - requests
+ - pillow
+
+ - pip:
+   - watermark
+   - tqdm
+   - tensorflow
+   - scikit-image
